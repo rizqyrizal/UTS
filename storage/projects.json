@@ -1,0 +1,26 @@
+[
+    {
+        "id": "8dac8facc6",
+        "name": "Rona Skincare",
+        "category": "Brand Identity",
+        "status": "Berjalan",
+        "deadline": "2024-12-20",
+        "owner": "Nusa Team"
+    },
+    {
+        "id": "a1c25f546a",
+        "name": "Bara Coffee",
+        "category": "Campaign",
+        "status": "Selesai",
+        "deadline": "2024-11-30",
+        "owner": "Nusa Team"
+    },
+    {
+        "id": "dbfe6dd7dc",
+        "name": "Loka Living",
+        "category": "Digital Experience",
+        "status": "Review",
+        "deadline": "2024-12-28",
+        "owner": "Nusa Team"
+    }
+]

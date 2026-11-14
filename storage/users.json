@@ -1,0 +1,10 @@
+[
+    {
+        "id": "b76b8b9881",
+        "name": "Admin Nusa",
+        "email": "admin@nusastudio.id",
+        "password": "$2y$12$vibZSjphTwzmGt6JLzTqX.DDs3vU3EweWo0fTauurl95GLqqf7NTG",
+        "role": "Administrator",
+        "created_at": "2026-11-15 04:44:53"
+    }
+]
